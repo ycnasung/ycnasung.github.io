@@ -123,7 +123,7 @@ body {
 }
 body {
   background: #fff;
-  font: 14px Arial, Helvetica, sans-serif, "Hiragino Sans GB", "Hiragino Sans GB W3", Microsoft JhengHei;
+  font: 18px Arial, Helvetica, sans-serif, "Hiragino Sans GB", "Hiragino Sans GB W3", Microsoft JhengHei;
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizelegibility;
 }
@@ -365,7 +365,7 @@ body {
 .article-entry dl,
 .widget dl {
   margin: 0 20px;
-  line-height: 1.6em;
+  line-height: 2em;
 }
 .article-entry ul ul,
 .widget ul ul,
@@ -505,8 +505,8 @@ a.article-title:hover {
 }
 .article-entry p,
 .article-entry table {
-  line-height: 1.6em;
-  margin: 1.6em 0;
+  line-height: 2em;
+  margin: 2em 0;
 }
 .article-entry h1,
 .article-entry h2,
@@ -536,8 +536,8 @@ a.article-title:hover {
 .article-entry ul,
 .article-entry ol,
 .article-entry dl {
-  margin-top: 1.6em;
-  margin-bottom: 1.6em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 .article-entry img,
 .article-entry video {
@@ -584,11 +584,11 @@ a.article-title:hover {
   margin-top: -1.5em;
 }
 .article-entry blockquote p {
-  font-size: 14px;
+  font-size: 18px;
 }
 .article-entry blockquote footer {
-  font-size: 14px;
-  margin: 1.6em 0;
+  font-size: 18px;
+  margin: 2em 0;
   font-family: -apple-system, "Arial", BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 }
 .article-entry blockquote footer cite:before {
@@ -675,9 +675,9 @@ a.article-title:hover {
 }
 .article-footer {
   font-size: 0.85em;
-  line-height: 1.6em;
+  line-height: 2em;
   border-top: 1px solid #e6e6e6;
-  padding-top: 1.6em;
+  padding-top: 2em;
   margin: 0 20px 20px;
 }
 .article-footer:before,
@@ -807,7 +807,7 @@ a.article-title:hover {
 }
 .article-nav-title {
   font-size: 0.85em;
-  line-height: 1.6em;
+  line-height: 2em;
   margin-top: 0.5em;
 }
 .article-share-box {
@@ -1124,7 +1124,7 @@ a.article-title:hover {
   -moz-transition: color 0.2s;
   -ms-transition: color 0.2s;
   transition: color 0.2s;
-  line-height: 1.6em;
+  line-height: 2em;
   border-left: 1px solid #333;
   padding-left: 15px;
 }
@@ -1740,7 +1740,7 @@ pre .xml .cdata {
   text-align: center;
 }
 .widget {
-  line-height: 1.6em;
+  line-height: 2em;
   word-wrap: break-word;
   font-size: 0.9em;
 }
